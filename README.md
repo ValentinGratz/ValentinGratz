@@ -1,4 +1,4 @@
-
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ValentinGratz" />
 <br><br>
 <font size="10">
 <b>
@@ -11,8 +11,6 @@ Je m'appelle <a href="http://www.valentin-gratz.xyz" target="_blank">Valentin Gr
 <br />
 <br />
 <br />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ValentinGratz" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGratz&locale=fr" />
 <br>
 <br>
