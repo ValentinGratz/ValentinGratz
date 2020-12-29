@@ -11,7 +11,7 @@ Je m'appelle <a href="http://www.valentin-gratz.xyz" target="_blank">Valentin Gr
 <br />
 <br />
 <br />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGratz&locale=fr" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValentinGratz&locale=fr" />
 <br>
 <br>
   J'ai réalisé ce statut à l'aide de ce tuto : https://lioncoding.com/2020/07/09/2020-07-09-ajouter-un-readme-a-son-profil-github/
