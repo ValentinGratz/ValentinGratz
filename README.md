@@ -4,7 +4,9 @@ Hi there 👋
 </b>
 </font>
 <br />
-Je m'appelle <a href="http://www.valentin-gratz.xyz" target="_blank">Valentin Grätz</a>, je suis en formation DWWM, mais j'ai commencer à développer bien avant. Ainsi participer à des projets dit open-source, comme vous pourrez le voir dans les repo, ainsi que les projets favoris. 
+Je m'appelle <a href="http://www.valentin-gratz.xyz" target="_blank">Valentin Grätz</a> (site internet temporairement indisponible), j'ai le titre professionnel Développeur Web et Web Mobile, mais j'ai commencer à développer bien avant. Ainsi participer à des projets dit open-source, comme vous pourrez le voir dans les repo, ainsi que les projets favoris. 
+<br>
+Je me spécialise dans le front-end (Bootstrap, HTML/CSS) ainsi que dans la création WordPress (création de kit et tremplate <a href="https://trk.elementor.com/valentindev">Elementor</a> & <a href="https://www.elegantthemes.com/affiliates/idevaffiliate.php?id=66327_1_1_3">DIVI</a>)
 <br>
 <br>
 Mes technologies <br>
